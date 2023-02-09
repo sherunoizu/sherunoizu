@@ -173,8 +173,6 @@
  
 <table width='100%'>
   <tr>
-   
-    
     <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
@@ -182,7 +180,7 @@
       <br>GraphQL
     </td>
     
-     <td align="center" width="96"> 
+   <td align="center" width="96"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
       </a>
