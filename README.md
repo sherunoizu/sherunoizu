@@ -12,6 +12,7 @@
 - :fire: &nbsp;My tech stack: JS, TS, React, Redux
 - :speech_balloon: &nbsp;Want to improve design skills 
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
+- 👀 Other hobbies: 🏎️ сircuit racing, 🎮 gaming and 🏋️ GYM
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/sherunoizu)**
 
 <br>
