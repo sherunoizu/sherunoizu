@@ -1,8 +1,8 @@
 
-<h1 align="left">:wave: Hello there! I'm Nikita Zapletin</h1>
-
-<a href="https://t.me/sherunoizu"><img alt="telegram" src="https://img.icons8.com/doodle/48/null/telegram-app.png"></a>
-
+<div>
+  <h1 align="left">:wave: Hello there! I'm Nikita Zapletin</h1>
+  <a href="https://t.me/sherunoizu"><img alt="telegram" src="https://img.icons8.com/doodle/48/null/telegram-app.png"></a>
+</div>
 
 <h4 align="left">I'm frontend developer who strives to create high-quality and useful products. Currently focused on improving my core skills.</h4>
 
@@ -184,9 +184,9 @@
 
 
 ## :comet: Contact
-<a href="#debabin-title">
+<!-- <a href="#debabin-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherunoizu&show_icons=true&locale=en&layout=compact&theme=react" alt="sherunoizu" />
-</a>
+</a> -->
 
 - :comet: &nbsp;**[Github](https://github.com/sherunoizu)**
 - :airplane: &nbsp;**[Telegram](https://t.me/sherunoizu)**
