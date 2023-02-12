@@ -185,9 +185,9 @@
 
 
 ## :comet: Contact
-<!-- <a href="#debabin-title">
+<a href="#debabin-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherunoizu&show_icons=true&locale=en&layout=compact&theme=react" alt="sherunoizu" />
-</a> -->
+</a>
 
 - :comet: &nbsp;**[Github](https://github.com/sherunoizu)**
 - :airplane: &nbsp;**[Telegram](https://t.me/sherunoizu)**
