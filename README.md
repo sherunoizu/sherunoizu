@@ -4,7 +4,8 @@
 <h3 align="left">I'm frontend developer who strives to create high-quality and useful products. Currently focused on improving my core skills.</h3>
 <!-- <a href="https://t.me/sherunoizu"><img alt="telegram" src="https://img.icons8.com/doodle/48/null/telegram-app.png"></a> -->
 
-<a href="#debabin-title">
+<div>
+  <a href="#debabin-title">
   <img src="https://github-readme-stats.vercel.app/api?username=sherunoizu&show_icons=true&locale=en" alt="sherunoizu" align="right" />
 </a>
 
@@ -14,6 +15,7 @@
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
 - 👀 Other hobbies: 🏎️ сircuit racing, 🎮 gaming and 🏋️ GYM
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/sherunoizu)**
+</div>
 
 <br>
 
