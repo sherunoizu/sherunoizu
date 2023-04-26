@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sherunoizu&show_icons=true&locale=en" alt="sherunoizu" align="right" />
 </a>
 
-- :office: &nbsp;Currently actively looking for a job in an interesting team.
 - :fire: &nbsp;My tech stack: JS, TS, React, Redux
 - :speech_balloon: &nbsp;Want to improve design skills 
 - :writing_hand: &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
