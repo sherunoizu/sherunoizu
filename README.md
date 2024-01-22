@@ -1,7 +1,7 @@
 
 
 <h1 align="left">:wave: Hello there! I'm Nikita Zapletin</h1>
-<h3 align="left">I'm frontend developer who strives to create high-quality and useful products. Currently focused on improving my core skills.</h3>
+<h3 align="left">I'm a frontend developer who strives to create high-quality and useful products. Currently focused on improving my core skills.</h3>
 <!-- <a href="https://t.me/sherunoizu"><img alt="telegram" src="https://img.icons8.com/doodle/48/null/telegram-app.png"></a> -->
 
 <div>
