@@ -185,7 +185,7 @@
 
 ## :comet: Contact
 <a href="#debabin-title">
-  <img align="right" src="https://github-readme-stats.vercel.app](https://github-readme-stats-psi-five-65.vercel.app)/api/top-langs?username=sherunoizu&show_icons=true&locale=en&layout=compact&theme=react" alt="sherunoizu" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherunoizu&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="sherunoizu" />
 </a>
 
 - :comet: &nbsp;**[Github](https://github.com/sherunoizu)**
