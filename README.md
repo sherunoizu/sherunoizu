@@ -6,7 +6,7 @@
 
 <div>
   <a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherunoizu&show_icons=true&locale=en&theme=cobalt" alt="sherunoizu" align="right" />
+  <img src="https:/github-readme-stats-rose-ten-98.vercel.app/api?username=sherunoizu&show_icons=true&locale=en&theme=cobalt" alt="sherunoizu" align="right" />
 </a>
 
 - :fire: &nbsp;My tech stack: JS, TS, React, Redux
