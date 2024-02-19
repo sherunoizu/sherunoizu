@@ -5,9 +5,9 @@
 <!-- <a href="https://t.me/sherunoizu"><img alt="telegram" src="https://img.icons8.com/doodle/48/null/telegram-app.png"></a> -->
 
 <div>
-  <a href="#debabin-title">
-  <img src="https://github-readme-stats-psi-five-65.vercel.app/api?username=sherunoizu&show_icons=true&locale=en&theme=cobalt" alt="sherunoizu" align="right" />
-</a>
+<!--   <a href="#debabin-title">
+    <img src="https://github-readme-stats-psi-five-65.vercel.app/api?username=sherunoizu&show_icons=true&locale=en&theme=cobalt" alt="sherunoizu" align="right" />
+  </a> -->
 
 - :fire: &nbsp;My tech stack: JS, TS, React, Redux
 - :speech_balloon: &nbsp;Want to improve design skills 
